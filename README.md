@@ -1,5 +1,5 @@
 # my portfolio-website
-Here’s a more tailored description for your portfolio website with just a **Home** and **Contact** page, which you can use on GitHub:  
+Here’s a more tailored description for my portfolio website with just a **Home** and **Contact** page:  
 
 ---
 
